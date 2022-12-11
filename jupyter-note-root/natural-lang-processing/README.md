@@ -26,4 +26,4 @@ $ python3
 ```bash
 $ jupyter-notebook
 ```
-- Paste the url with token displayed screen after running jupyter-notebook to a browser.
+- Paste the url with token displayed screen to a browser after running jupyter-notebook.
