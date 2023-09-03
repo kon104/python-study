@@ -136,3 +136,4 @@ jupyter-note-root/natural-lang-processing/learned-model/*.model
 jupyter-note-root/natural-lang-processing/learned-model/*.npy
 jupyter-note-root/natural-lang-processing/learned-model/*.tar.bz2
 jupyter-note-root/stock-price-trends/*.csv
+Untitled*.ipynb
